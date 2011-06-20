@@ -1,0 +1,3 @@
+This repository is a modified version of VIVO's vitro-core source code. The modifications made enable the VIVO web application to be run on an Oracle 11g r2 database, through the use of the Oracle Jena adapter.
+
+This code is beta, and there are still minor bugs and issues in the code base.
